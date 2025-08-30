@@ -1,0 +1,19 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="80" fill="#F4F6FA"/>
+  
+  <!-- Code Brackets -->
+  <path d="M70 70 L50 100 L70 130" fill="none" stroke="#1A1F36" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M130 70 L150 100 L130 130" fill="none" stroke="#1A1F36" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Code Line -->
+  <path d="M90 70 L110 130" fill="none" stroke="#3F8CFF" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Dots -->
+  <circle cx="70" cy="70" r="3" fill="#F5C35C"/>
+  <circle cx="50" cy="100" r="3" fill="#F5C35C"/>
+  <circle cx="70" cy="130" r="3" fill="#F5C35C"/>
+  <circle cx="130" cy="70" r="3" fill="#F5C35C"/>
+  <circle cx="150" cy="100" r="3" fill="#F5C35C"/>
+  <circle cx="130" cy="130" r="3" fill="#F5C35C"/>
+</svg>

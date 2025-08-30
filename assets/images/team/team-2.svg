@@ -1,0 +1,14 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="150" cy="150" r="150" fill="#F4F6FA"/>
+  
+  <!-- Person Silhouette (Different Style) -->
+  <circle cx="150" cy="120" r="60" fill="#3F8CFF"/>
+  <path d="M80 250 Q150 180 220 250" fill="#3F8CFF"/>
+  
+  <!-- Abstract Elements -->
+  <circle cx="90" cy="70" r="10" fill="#1A1F36" opacity="0.5"/>
+  <circle cx="210" cy="70" r="10" fill="#F5C35C" opacity="0.5"/>
+  <circle cx="70" cy="210" r="15" fill="#6B4EFF" opacity="0.5"/>
+  <circle cx="230" cy="210" r="15" fill="#1A1F36" opacity="0.5"/>
+</svg>

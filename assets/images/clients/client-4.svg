@@ -1,0 +1,12 @@
+<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Rectangle -->
+  <rect width="200" height="100" fill="none"/>
+  
+  <!-- Abstract Logo -->
+  <rect x="40" y="30" width="40" height="40" rx="5" fill="none" stroke="#1A1F36" stroke-width="3"/>
+  <rect x="90" y="30" width="40" height="40" rx="20" fill="none" stroke="#1A1F36" stroke-width="3"/>
+  <polygon points="150,30 170,50 150,70 130,50" fill="none" stroke="#1A1F36" stroke-width="3"/>
+  
+  <!-- Company Name -->
+  <text x="100" y="85" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle" fill="#1A1F36">SHAPE LABS</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="80" fill="#F4F6FA"/>
+  
+  <!-- Pen Tool Icon -->
+  <path d="M70 130 L100 70 L130 130 Z" fill="none" stroke="#1A1F36" stroke-width="3"/>
+  
+  <!-- Control Points -->
+  <circle cx="70" cy="130" r="5" fill="#3F8CFF"/>
+  <circle cx="100" cy="70" r="5" fill="#3F8CFF"/>
+  <circle cx="130" cy="130" r="5" fill="#3F8CFF"/>
+  
+  <!-- Color Palette -->
+  <rect x="85" y="110" width="30" height="30" rx="2" fill="#F5C35C"/>
+</svg>

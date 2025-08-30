@@ -1,0 +1,11 @@
+<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Rectangle -->
+  <rect width="200" height="100" fill="none"/>
+  
+  <!-- Abstract Logo -->
+  <polygon points="70,20 100,50 70,80 40,50" fill="none" stroke="#1A1F36" stroke-width="3"/>
+  <line x1="100" y1="50" x2="160" y2="50" stroke="#1A1F36" stroke-width="3"/>
+  
+  <!-- Company Name -->
+  <text x="100" y="85" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle" fill="#1A1F36">DIAMOND INC</text>
+</svg>

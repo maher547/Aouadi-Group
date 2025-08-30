@@ -1,0 +1,19 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#F4F6FA"/>
+  
+  <!-- Video Frame -->
+  <rect x="50" y="50" width="300" height="200" rx="5" fill="#1A1F36"/>
+  
+  <!-- Play Button -->
+  <circle cx="200" cy="150" r="40" fill="#FFFFFF" opacity="0.2"/>
+  <polygon points="190,130 220,150 190,170" fill="#FFFFFF"/>
+  
+  <!-- Video Timeline -->
+  <rect x="70" y="220" width="260" height="5" rx="2" fill="#3F8CFF"/>
+  <circle cx="150" cy="222.5" r="5" fill="#F5C35C"/>
+  
+  <!-- Project Label -->
+  <rect x="150" y="260" width="100" height="20" rx="5" fill="#1A1F36"/>
+  <text x="180" y="275" font-family="Arial" font-size="12" fill="#FFFFFF">VIDEO</text>
+</svg>

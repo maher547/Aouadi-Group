@@ -1,0 +1,11 @@
+<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Rectangle -->
+  <rect width="200" height="100" fill="none"/>
+  
+  <!-- Abstract Logo -->
+  <circle cx="70" cy="50" r="30" fill="none" stroke="#1A1F36" stroke-width="3"/>
+  <rect x="110" y="30" width="50" height="40" rx="5" fill="none" stroke="#1A1F36" stroke-width="3"/>
+  
+  <!-- Company Name -->
+  <text x="100" y="85" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle" fill="#1A1F36">ACME CORP</text>
+</svg>
